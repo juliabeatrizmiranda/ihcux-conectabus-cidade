@@ -1,5 +1,5 @@
 Nome dos alunos
-- Júlia Beatriz Miranda,
+- Júlia Beatriz Miranda,Heitor Sousa do Carmo, Paula Raphisa Mendes, Ryan Pierre Gomes de Sousa.
 
 Contexto de Uso
 O aplicativo é usado por pessoas que precisam chegar rápido ao destino, como estudantes e trabalhadores correndo para não perder o ônibus ou chegar no horário.
